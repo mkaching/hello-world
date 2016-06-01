@@ -1,4 +1,4 @@
 # hello-world
 My name is Marsella Kachingwe and this is my first repository.
-I am from Lilongwe, Malawi, but living in Washington, DC. 
+I am originally from Lilongwe, Malawi, but now I'm living in Washington, DC. 
 Where are you from?
