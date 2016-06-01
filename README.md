@@ -1,2 +1,2 @@
 # hello-world
-First repository
+My name is Marsella Kachingwe and this is my first repository
